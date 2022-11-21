@@ -2,9 +2,7 @@
 Eksamen Grensesnitt
 
 ## How to install and use 
-```sh
-git clone https://github.com/Tomstiani/exam-grensesnitt.git
-
+```
 npm install
 
 npm start
